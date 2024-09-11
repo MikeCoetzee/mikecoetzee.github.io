@@ -1,5 +1,5 @@
 ---
-description: Compromising a publicly accessable Azure Blob Storage to gain initial access into an enterpize environment.  
+description: Compromising a publicly accessible Azure Blob Storage to gain initial access into an enterprise environment.  
 title: Pwned Labs - Azure Blob Container to Initial Access
 date: 2024-09-11 00:00:00 +0200
 categories: [Cloud, Pwned Labs, Azure]
@@ -8,7 +8,7 @@ tags: [cloud, hacking, pwnedlabs, azure, entra, powershell]
 #image: /assets/img/                # Add infocard image here for post preview image
 
 ---
-## Target Endpoint: http://dev.megabigtech.com/$web/index.html
+# Target Endpoint: http://dev.megabigtech.com/$web/index.html
 
 ## Scenario
 
