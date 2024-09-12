@@ -8,7 +8,7 @@ tags: [cloud, hacking, pwnedlabs, azure, entra, powershell]
 #image: /assets/img/                # Add infocard image here for post preview image
 
 ---
-# Target Endpoint: http://dev.megabigtech.com/$web/index.html
+## Target Endpoint: http://dev.megabigtech.com/$web/index.html
 
 ## Scenario
 
@@ -466,6 +466,8 @@ $response = Invoke-RestMethod -Uri $GraphApiUrl -Method Get -Headers $headers
 $response | ConvertTo-Json
 
 ```
+## Abusing the credentials
+
 
 Running the `entra_users.ps1` script we see these Entra credentials are still valid as we login and get Entra user info!
 
