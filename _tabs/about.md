@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## About me
-
 Welcome to my page where I share my knowledge that I gain through CTF's, Labs and Courses. 
 
 To those that don't know me, i'm a father of 2 and a partner to a very amazing wife. I enjoy expanding my knowledge in the IT and Cyber Realm and this is my first take at broadcasting what i am busy with to the world. 
