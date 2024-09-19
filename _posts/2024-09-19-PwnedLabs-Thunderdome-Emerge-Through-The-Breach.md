@@ -19,7 +19,7 @@ Browsing to the IP we are presented with a website labeled "Massive Pharma"
 
 Looking at the source code we see an interesting comment referring to a Bitbucket repository `mp-website`:
 
-```htm
+```console
 <footer class="u-align-center u-clearfix u-footer u-grey-80" id="sec-1c6e">
     <div class="u-clearfix u-sheet u-sheet-1">
     </div>
@@ -27,6 +27,7 @@ Looking at the source code we see an interesting comment referring to a Bitbucke
 <!-- http://bitbucket.org/massive-pharma/mp-website -->
 <br>
 ```
+
 Browsing to project on bitbucket we see the website files:
 
 ![insert](/assets/img/PharmaBitbucket.png)
