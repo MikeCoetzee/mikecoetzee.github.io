@@ -3,7 +3,7 @@ description: Writeup for the 1st flag (Emerge through the breach) in the Thunder
 title: Pwned Labs - Thunderdome Flag 1 of 9
 date: 2024-09-19 00:00:00 +0200
 categories: [Cloud, Pwned Labs, Hacking]
-tags: [cloud, hacking, pwnedlabs, thunderdome]
+tags: [cloud, hacking, pwnedlabs, thunderdome, aws]
 #show_image_post: true                                   # Change this to true
 #image: /assets/img/                # Add infocard image here for post preview image
 
