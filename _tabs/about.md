@@ -12,4 +12,4 @@ The reason for doing this is 2 fold. It forces me to take better notes on CTF's,
 
 Hope you enjoy the content and any feedback is always welcome. 
 
-Feel free to share any of the posts and enjoy the journey of unedning knowledge. :)
+Feel free to share any of the posts and enjoy the journey of unending knowledge. :)
