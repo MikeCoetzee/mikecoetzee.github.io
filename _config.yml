@@ -19,7 +19,7 @@ title: Michael Coetzee # the main title
 tagline: IT Manager | Cyber Security Lead | CTF Enjoyer | Red & Blue Team  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  red team, blue team, hacking, CVE, PwnedLabs, hackthebox, tryhackme, cybersecurity
+ Sharing my CTF/Challenge writeups and unending journey for additional knowledge in the Cyber Realm (Redteam, Blueteam, Hackthebox, Tryhackme, Hacking, Forensics)
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
