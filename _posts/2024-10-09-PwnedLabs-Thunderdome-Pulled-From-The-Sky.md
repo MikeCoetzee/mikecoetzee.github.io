@@ -22,7 +22,7 @@ User:nina@massive-pharma.com
 ### AWS Access Key leaked in Bitbucket
 
 ```
-Access_key:AKIATCKANV3QK3BT3CVG
+Access_key:AKIATCKANV3QK3BT3***
 ```
 
 ### Account ID obtained using the leaked access
@@ -45,15 +45,15 @@ Using the above info to log into Haru's AWS Account we retrieve the Access + Sec
 
 ![aws](/assets/img/awskeypair.png)
 
-`Access_Key:AKIATCKANV3QK3BT3CVG` & `Secret_Key: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`
+`Access_Key:AKIATCKANV3QK3BT3***` & `Secret_Key:zCX7r3Ldc5WJMb2yo0D69ncAVARNpbFnmcZIT***`
 
 We will be using a tool from Bishopfox called [Cloudfox](https://github.com/BishopFox/cloudfox) to gather some more information.
 Lets start with configuring our aws keys onto a profile for Cloudfox to use.
 
 ```console
 aws configure --profile haru
-AWS Access Key ID [None]: AKIATCKANV3QK3BT3CVG
-AWS Secret Access Key [None]: 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
+AWS Access Key ID [None]: AKIATCKANV3QK3BT3***
+AWS Secret Access Key [None]: zCX7r3Ldc5WJMb2yo0D69ncAVARNpbFnmcZIT***
 Default region name [None]:
 Default output format [None]:
 ```
@@ -279,8 +279,8 @@ Nacer AWS keys!
 ```
 <fs> cat /home/nacer/.aws/credentials
 [default]
-aws_access_key_id = AKIATCKANV3QAD7S2SGU
-aws_secret_access_key = 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
+aws_access_key_id = AKIATCKANV3QAD7S2***
+aws_secret_access_key = GqWJEq7oRKCeNy+qbCBD5rh6Ho2V+YaXoPB4Y***
 ```
 
 Nacer Azure tokens! (Possible Azure Pivot with Tenant info)
@@ -528,8 +528,8 @@ Lets grab the newly rotated keys and run further enumeration.
 ```console
 nacer@ip-172-31-90-229:~$ cat .aws/credentials
 [default]
-aws_access_key_id = AKIATCKANV3QGNIRXR5S
-aws_secret_access_key = 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
+aws_access_key_id = AKIATCKANV3QGNIRX***
+aws_secret_access_key = 5SsPMd6AvU75JyNtopBHI7pRjI+5CgFF5tTe3***
 nacer@ip-172-31-90-229:~$
 ```
 
