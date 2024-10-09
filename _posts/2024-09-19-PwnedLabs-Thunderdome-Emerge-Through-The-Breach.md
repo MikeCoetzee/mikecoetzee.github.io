@@ -5,7 +5,7 @@ date: 2024-09-19 00:00:00 +0200
 categories: [Cloud, Pwned Labs, Hacking]
 tags: [cloud, hacking, pwnedlabs, thunderdome, aws]
 #show_image_post: true                                   # Change this to true
-#image: /assets/img/                # Add infocard image here for post preview image
+image: /assets/img/thunderdome.png                # Add infocard image here for post preview image
 
 ---
 

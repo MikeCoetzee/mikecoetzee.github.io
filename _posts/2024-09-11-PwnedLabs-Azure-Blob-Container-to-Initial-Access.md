@@ -5,7 +5,7 @@ date: 2024-09-11 00:00:00 +0200
 categories: [Cloud, Pwned Labs, Azure]
 tags: [cloud, hacking, pwnedlabs, azure, entra, powershell]
 #show_image_post: true                                   # Change this to true
-#image: /assets/img/                # Add infocard image here for post preview image
+image: /assets/img/pwnedlabs.png                # Add infocard image here for post preview image
 
 ---
 ## Target Endpoint: http://dev.megabigtech.com/$web/index.html
