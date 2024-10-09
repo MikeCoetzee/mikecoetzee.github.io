@@ -168,7 +168,7 @@ Seems we can not pass a profile so we need to setup our aws keys for the default
 └─$ aws configure
 
 AWS Access Key ID [****************3CVG]:
-AWS Secret Access Key [None]: zCX7r3Ldc5WJMb2yo0D69ncAVARNpbFnmcZITTxB
+AWS Secret Access Key [None]: zCX7r3Ldc5WJMb2yo0D69ncAVARNpbFnmcZIT***
 Default region name [None]:
 Default output format [None]:
 ```
@@ -541,8 +541,8 @@ Lets setup these new keys to further enumerate as Nacer with `aws configure --pr
 ┌──(kali㉿kali)-[~]
 └─$ aws configure --profile nacer
 
-AWS Access Key ID [None]: AKIATCKANV3QGNIRXR5S
-AWS Secret Access Key [None]: 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
+AWS Access Key ID [None]: AKIATCKANV3QGNIRX***
+AWS Secret Access Key [None]: 5SsPMd6AvU75JyNtopBHI7pRjI+5CgFF5tTe3***
 Default region name [None]:
 Default output format [None]:
 ```
